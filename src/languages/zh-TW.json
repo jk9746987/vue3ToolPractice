@@ -1,0 +1,13 @@
+{
+    "cancel": "取消",
+    "email": "Email信箱",
+    "date": "日期",
+    "subject": "標題",
+    "message": "訊息內容",
+    "upload": "上傳",
+    "title": "歡迎來 {appName} App",
+    "practice": "練習",
+    "upperpractice": "vue3 @.upper:practice",
+    "lowerpractice": "vue3 @.lower:practice",
+    "capitalizepractice": "vue3 @.capitalize:practice"
+}

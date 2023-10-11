@@ -1,0 +1,13 @@
+{
+    "cancel": "cancel",
+    "email": "email",
+    "date": "date",
+    "subject": "subject",
+    "message": "message",
+    "upload": "upload",
+    "title": "Welcome to {appName} App",
+    "practice": "prAcTice",
+    "upperpractice": "vue3 @.upper:practice",
+    "lowerpractice": "vue3 @.lower:practice",
+    "capitalizepractice": "vue3 @.capitalize:practice"
+  }

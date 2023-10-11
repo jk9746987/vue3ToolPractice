@@ -1,0 +1,9 @@
+trailingComma: all # 数组 对象尾随不需要逗号
+bracketSpacing: true # 对象空格 { foo: bar }, false=> {foo:bar}
+arrowParens: always # 箭头函数，只有一个参数的时候，也需要括号
+singleQuote: true # 单引号
+semi: true # 是否在语句末尾就分号
+tabWidth: 4 # 空兩格
+printWidth: 100 # 最大長度
+singleAttributePerLine: true # 每行單個屬性
+useTabs: false # 是否用tab
